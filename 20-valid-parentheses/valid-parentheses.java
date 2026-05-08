@@ -46,4 +46,4 @@ class Solution {
         return top == -1;
     }
 }
-//
+//Here we are using array as stack so it's more optimized and clean now
