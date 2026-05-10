@@ -11,3 +11,4 @@ class Solution {
         return i+1;
     }
 }
+//100% beats in run time Time:O(n) Space:O(1)
